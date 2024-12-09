@@ -6,7 +6,7 @@
   <li>The link should open on a new page</li>
   <li>Only HTML elements should be used to do the job</li>
 </ul>
-<img src="https://elzero.org/wp-content/uploads/2021/01/html-assigns-10-to-14.png">
+<img href="https://elzero.org/wp-content/uploads/2021/01/html-assigns-10-to-14.png">
 <hr>
 <h2>Task02:</h2>
 <ul>
