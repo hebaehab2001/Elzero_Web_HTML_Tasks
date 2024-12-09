@@ -13,20 +13,19 @@
   <li>Create the shape in the image with HTML only</li>
   <li>The numbering must be done in HTML and not written by yourself</li>
 </ul>
-<img>
+![img2](https://elzero.org/wp-content/uploads/2021/01/html-assignments-11-14-1.png)
 <hr>
 <h2>Task03:</h2>
 <ul>
   <li>Write down all the uses of Anchor that you know</li>
   <li>Watch the first example to see the idea</li>
 </ul>
-<img>
 <hr>
 <h2>Task04:</h2>
 <ul>
   <li>Create the shape in the image with HTML only</li>
   <li>The shape must be made with the appropriate element for that shape</li>
 </ul>
-<img>
+![img](https://elzero.org/wp-content/uploads/2021/01/html-assignments-11-14-2.png)
 <hr>
 <a href="https://elzero.org/html-assignments-lesson-from-11-to-14/">Task link</a>
