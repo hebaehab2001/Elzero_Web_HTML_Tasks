@@ -1,0 +1,6 @@
+<!-- Go To External Link --> 
+<a href="https://google.com" target="_blank" >Google</a> 
+<!-- Go To internal Link --> 
+<a href="page2.html">second page</a> 
+<!-- Go To mail Link --> 
+<a href="email@d.com">email</a>
