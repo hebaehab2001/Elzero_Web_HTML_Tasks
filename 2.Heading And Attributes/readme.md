@@ -1,10 +1,10 @@
 <h2>Task01:</h2>
 <ol>
   <li>What line is written to tell the browser that the language version used to create the page is HTML5?</li>
-  <li>What Rendering Mode will the browser follow if you do not write the line to specify the version</li>
+  <li>What Rendering Mode will the browser follow if you do not write the line to specify the version?</li>
   <li>Is it okay to use more than one h1 on a page? Answer yes or no</li>
-  <li>You have an element that contains product data and the product title is written in h3. Does it make sense to put the h2 title inside the same product or not</li>
-  <li>What do the elements h1, h2, h3, h4, h5, h6 stand for</li>
+  <li>You have an element that contains product data and the product title is written in h3. Does it make sense to put the h2 title inside the same product or not?</li>
+  <li>What do the elements h1, h2, h3, h4, h5, h6 stand for?</li>
 </ol>
 <hr>
 <h2>Task02:</h2>
@@ -21,7 +21,7 @@
 <hr>
 <h2>Task05:</h2>
 <p>Next to each Attribute in the example, write whether it is a Global Attribute or not</p>
-<ol>
+<ul>
   <li>title</li>
   <li>href</li>
   <li>src</li>
@@ -30,7 +30,7 @@
   <li>class</li>
   <li>id</li>
   <li>type</li>
-</ol>
+</ul>
 <hr>
 <h2>Task06:</h2>
 <ul>
