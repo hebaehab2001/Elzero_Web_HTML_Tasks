@@ -6,7 +6,7 @@
   <li>The link should open on a new page</li>
   <li>Only HTML elements should be used to do the job</li>
 </ul>
-![Screenshot 2024-12-09 171858](https://github.com/user-attachments/assets/e02ced08-86fb-4a69-b4ce-5e0e6ffbb857)
+![img1](https://github.com/user-attachments/assets/97c68314-b990-4fc1-8086-4e9990ee1454)
 <hr>
 <h2>Task02:</h2>
 <ul>
