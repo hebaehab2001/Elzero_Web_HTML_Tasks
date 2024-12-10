@@ -21,4 +21,3 @@
 ![img3](https://elzero.org/wp-content/uploads/2021/01/html-assignments-15-18-3.png)
 <hr>
 <a href="https://elzero.org/html-assignments-lesson-from-15-to-18/">Task link</a>
-![img2](https://elzero.org/wp-content/uploads/2021/01/html-assignments-15-18-2.png)
