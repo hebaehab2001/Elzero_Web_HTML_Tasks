@@ -23,5 +23,6 @@
   <li>The default value is 400.</li>
   <li>You don't need to do the numbers, they're just to clarify what's required.</li>
 </ul>
+https://elzero.org/wp-content/uploads/2021/01/html-assignments-24-27.gif
 <hr>
 <a href="https://elzero.org/html-assignments-lesson-from-24-to-27/">Task link</a>
